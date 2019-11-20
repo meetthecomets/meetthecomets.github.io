@@ -6,11 +6,13 @@ body {
   background-size: cover;
 }
 
+.hero-text-container {
+  padding-top:100px;
+  padding-top: 10vh;
+}
+
 .hero-text {
-  position: relative;
-  float:left;
-  margin-right:auto;
-  margin-left:auto;
+  display:inline-block;
   font-family: Avenir, Helvetica, sansserif;
   font-size: 120px;
   font-weight:700;
