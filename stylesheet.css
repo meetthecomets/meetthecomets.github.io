@@ -5,3 +5,11 @@ body {
   background-repeat: no-repeat; /* Do not repeat the image */
   background-size: cover; /* Resize the background image to cover the entire container */
 }
+
+.hero-text {
+  position: center;
+  font-size: 72px;
+  max-width:80vw;
+  color:#ddd;
+  text-shadow: 2px 2px #333;
+}
