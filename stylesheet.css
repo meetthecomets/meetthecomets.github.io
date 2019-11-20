@@ -11,8 +11,9 @@ body {
   float:left;
   margin-right:auto;
   margin-left:auto;
-  font-size: 72px;
-  max-width:80vw;
-  color:#ddd;
-  text-shadow: 2px 2px #333;
+  font-family: Avenir, Helvetica, sansserif;
+  font-size: 120px;
+  font-weight:700;
+  color:#333;
+  text-shadow: 2px 2px #ddd;
 }
