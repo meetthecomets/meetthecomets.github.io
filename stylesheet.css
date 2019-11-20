@@ -9,6 +9,7 @@ body {
 .hero-text-container {
   padding-top:100px;
   padding-top: 10vh;
+  text-align:center;
 }
 
 .hero-text {
