@@ -14,7 +14,7 @@ body {
 
 .hero-text {
   display:inline-block;
-  font-family: Avenir, Helvetica, sansserif;
+  font-family: Avenir, Helvetica, SegoeUI, "Segoe UI", Verdana, sans-serif;
   font-size: 120px;
   font-weight:700;
   color:#333;
